@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NadaElhawary.NadaElhawary">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👋;I'm+Nada+Elhawary;Full+Stack+MEARN+Developer;Building+Scalable+Web+Apps+⚡&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👋;I'm+Nada+Elhawary;Full+Stack+MEARN+Developer;Building+Scalable+Web+Apps+⚡&center=true&size=26">
 </h1>
 
-<h3 align="center">⚡ Full Stack MEARN Developer | React • Node • Express • MongoDB ⚡</h3>
+<h3 align="center">⚡ Full Stack MEARN Developer | React • Angular • Node • Express • MongoDB ⚡</h3>
 
 ---
 
@@ -64,7 +64,7 @@ Clean Code • SOLID • MVC • Agile
 
 ##  Skills Matrix
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,html,css,git,github,docker)
+![Skills](https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,nestjs,express,mongodb,js,ts,tailwind,html,css,git,github,docker)
 
 ---
 
