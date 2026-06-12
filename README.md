@@ -62,20 +62,6 @@ Clean Code • SOLID • MVC • Agile
 
 ---
 
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=NadaElhawary&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaElhawary&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## ⚡ GitHub Activity
-
-![Streak](https://streak-stats.demolab.com?user=NadaElhawary&theme=tokyonight&hide_border=true)
-
----
-
 ## 🧩 Skills Matrix
 
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,html,css,git,github,docker)
