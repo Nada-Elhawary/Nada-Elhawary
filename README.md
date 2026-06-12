@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NadaElhawary.NadaElhawary">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👋;I'm+Nada+Elhawary;Full+Stack+MEARN+Developer;Building+Scalable+Web+Apps+⚡&center=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Nada+Elhawary;Software+Engineer;Full+Stack+MEARN+Developer&center=true&size=28">
 </h1>
 
-<h3 align="center"> Full Stack MEARN Developer | React • Angular • Node • Express • MongoDB </h3>
+<h3 align="center">Software Engineer | Full Stack MEARN Developer</h3>
 
 ---
 
