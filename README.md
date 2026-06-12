@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NadaElhawary.NadaElhawary">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👋;I'm+Nada+Elhawary; Full+Stack+MEARN+Developer; Building+Scalable+Web+Apps+⚡&center=true&size=30&color=00FFB3">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👋;I'm+Nada+Elhawary;Full+Stack+MEARN+Developer;Building+Scalable+Web+Apps+⚡&center=true&size=30&color=00FFB3">
 </h1>
 
 <h3 align="center">⚡ Full Stack MEARN Developer | React • Node • Express • MongoDB ⚡</h3>
@@ -25,7 +25,7 @@
 Full Stack Developer focused on building **fast, scalable, and modern web applications**.
 
 -  MEARN Stack Developer (React • Angular • Node.js • Express • MongoDB)  
-- 🛒 Built complete **E-commerce systems (Cart / Orders / Checkout / Auth)**  
+-  Built complete **E-commerce systems (Cart / Orders / Checkout / Auth)**  
 -  Experience with **JWT Authentication & Role-Based Access Control**  
 -  Strong focus on **Clean Architecture & Performance Optimization**  
 -  Passionate about scalable systems & real-world products  
