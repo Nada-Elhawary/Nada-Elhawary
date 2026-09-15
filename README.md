@@ -53,11 +53,11 @@ Clean Code • SOLID • MVC • Agile
 
 ##  Featured Projects
 
--  **Eco PowerHub** – Solar Energy Platform (Angular + .NET)
+-  **EduGenie** – AI-Powered E-Learning Platform
 -  **Book Store** – Full MEARN E-commerce System
 -  **Ada Store** – Angular API-based App
+-  **Personal Portfolio** - React App
 -  **Movies App** – React API-based App
--  **Auth System** – Secure JWT Authentication Flow
 -  More scalable projects available on GitHub
 
 ---
