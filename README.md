@@ -10,8 +10,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00FFB3?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-Contact-FF4C60?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nada.elhawaryy3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00FFB3?style=for-the-badge&logo=vercel&logoColor=black)](https://nadaelhawary.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-FF4C60?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nada.elhawary.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nada%20Elhawary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nada-elhawary)
 
 </div>
